@@ -11,7 +11,7 @@ Upon clicking the link we are presented with a simple UI with two separate numbe
 If we click "go" with the default numbers in the field it presents this message.
 ![](shouldmove.PNG)
 
-it also changes the URL to the following
+The URL also changes to the following.
 
 https://drivetothetarget.web.ctfcompetition.com/?lat=51.6498&lon=0.0982&token=gAAAAABdF2b0Jo520OKQFtMfWtti_dHO7rVpyljaU3v74xht1RqH6PmdxJ1BIAPCfPbYxGMX4PYrMJ6T_YLmAoIRZ37We7jRUs5IhkGpEWSRFuoCnJRohdOHAe3F_xqB_DpDphQMCVyN
 
